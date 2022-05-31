@@ -3,5 +3,5 @@ package jaki
 import "fmt"
 
 func PrintName()  {
-	fmt.Println("dog 3")
+	fmt.Println("dog 4")
 }
