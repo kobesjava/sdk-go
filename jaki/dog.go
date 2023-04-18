@@ -2,6 +2,6 @@ package jaki
 
 import "fmt"
 
-func PrintName()  {
-	fmt.Println("dog 5")
+func PrintName() {
+	fmt.Println("dog 6")
 }
